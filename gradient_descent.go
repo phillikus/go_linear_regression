@@ -1,4 +1,4 @@
-package gradient_descent
+package main
 
 func Regression(x_values []float32, y_values []float32, epochs int, learning_rate float32) (float32, float32) {
 	if len(x_values) == 0 || len(y_values) == 0 {

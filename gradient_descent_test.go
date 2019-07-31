@@ -1,4 +1,4 @@
-package gradient_descent
+package main
 
 import "math"
 import "testing"
